@@ -88,7 +88,7 @@ Accessibility Score  ▰▰▰▰▰▰▰▰▰▰ 90%
 
 ## 📫 Let's Build Tomorrow's Web
 
-[![Email](https://img.shields.io/badge/Email-mail@harikrishnanair.com-F7374F?style=for-the-badge&logo=gmail)](mailto:mail@harikrishnanair.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-hkgonebad-181717?style=for-the-badge&logo=github)](https://github.com/hkgonebad) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harikrishnanair.com-000?style=for-the-badge)](https://harikrishnanair.com) 
+[![Email](https://img.shields.io/badge/Email-mail@harikrishnanair.com-F7374F?logo=gmail)](mailto:mail@harikrishnanair.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-hkgonebad-181717?logo=github)](https://github.com/hkgonebad) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-harikrishnanair.com-000)](https://harikrishnanair.com) 
 
