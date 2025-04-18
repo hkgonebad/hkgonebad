@@ -18,8 +18,8 @@
 <div align="">
 
 **🖌️ UI Engineering**  
-*90+ Design-to-Web Conversions*  
-React | Angular | Responsive Design Systems  
+*140+ Design-to-Web Conversions*  
+React | Angular | Vue | Responsive Design Systems
 
 **⚡ Performance Craft**  
 *60% Lighthouse Score Boosts*  
